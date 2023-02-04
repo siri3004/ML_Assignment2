@@ -1,0 +1,6 @@
+x = [23, 'Python', 23.98]
+type_list = []
+for item in x:
+    type_list.append(type(item))
+print("Elements:",x)
+print("Types:", type_list)    
