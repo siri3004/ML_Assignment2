@@ -1,7 +1,7 @@
 # ML_Assignment2
 #Q1 python code to display the following star pattern using the for loop
 
-The right pascal triangle pattern can be clearly seen that it is made up of an upper triangle and a lower triangle. 
+---> The right pascal triangle pattern can be clearly seen that it is made up of an upper triangle and a lower triangle. 
 
 So, you can run 2 different for loops one which creates the upper triangle and another which creates the lower triangle. 
 
@@ -24,7 +24,7 @@ Also, the print("* ", end='') function prints only star accompanied by a space.
 
 my_list = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
 
-A list is defined and is displayed on the console. 
+---> A list is defined and is displayed on the console. 
 
 The list is iterated over beginning from the second index element, and the step size is mentioned as 2 in the range method. 
 
@@ -51,7 +51,9 @@ Input
  
  [<class 'int'>, <class 'str'>, <class 'float'>]
  
- 
+ ---> As per the given input, 
+ by using append() function returns an element to insert at the end of each Element in the set of matched elements. 
+
  
     x = [23, 'Python', 23.98]
     type_list = []
@@ -66,6 +68,8 @@ Input
 Sample List: [1,2,3,3,3,3,4,5]
 
 Unique List: [1, 2, 3, 4, 5]
+
+---> In a given input, duplicate values are not listed and append () function takes a single item as an input parameter and adds it to the end of the given list.
 
     def unique_list(l):
     x = []
@@ -87,6 +91,13 @@ Expected Output:
 No. of Upper-case characters: 3
 
 No. of Lower-case Characters: 12
+
+---> In given string, count the number of lower-case and upper-case letters, defined a function. 
+
+Initialize two variables. To count each letter in the string we need to iterate over each character in the string by using for loop. 
+
+To check the letter case increment and add it to for loop and print the values at the end of the function.
+
 
     def up_low(string):
       uppers = 0
