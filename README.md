@@ -1,4 +1,7 @@
 # ML_Assignment2
+
+Video Link: https://drive.google.com/file/d/1q4-sodmlYf1P0W5ispn_Ega9JCJtnikM/view
+
 #Q1 python code to display the following star pattern using the for loop
 
 ---> The right pascal triangle pattern can be clearly seen that it is made up of an upper triangle and a lower triangle. 
